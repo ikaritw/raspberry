@@ -1,0 +1,14 @@
+{
+  "name": "test-johnny-five",
+  "version": "1.0.0",
+  "description": "測試johnny-five的控制功能",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ikaritw@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "johnny-five": "^0.9.11"
+  }
+}
